@@ -1,1 +1,1 @@
-# SIColetaLixo
+Esta pasta deverá ser usada para guardar documentos de desenho do projeto de aplicação, que se trata de um sistema para melhorar a programação das coletas de lixo de uma empresa deste ramo, e também realizar a projeção do banco de dados desta empresa.
